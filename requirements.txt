@@ -1,0 +1,6 @@
+pandas
+transformers
+sentencepiece  # for some models
+torch  # ML backend
+nltk
+rouge  # for evaluation
