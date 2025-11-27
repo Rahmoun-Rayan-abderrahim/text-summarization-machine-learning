@@ -1,6 +1,7 @@
+numpy
 pandas
-transformers
-sentencepiece  # for some models
-torch  # ML backend
 nltk
-rouge  # for evaluation
+scikit-learn
+beautifulsoup4
+tensorflow
+rouge-score
